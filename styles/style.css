@@ -85,7 +85,6 @@ fieldset {
 .search-form {
   display: flex;
   justify-content: space-between;
-  min-height: 54px;
 }
 
 .search-form__fieldset-title {
